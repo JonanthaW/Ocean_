@@ -1,0 +1,47 @@
+.contactContainer {
+  margin-bottom: 4%;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.contactInfo h3 {
+  color: gray;
+  text-transform:uppercase;
+  font-size: 1.5vw;
+  margin-left: 6%;
+  margin-bottom: 2%;
+}
+
+.contactForm div > label {
+  font-size: 1vw;
+}
+
+.contactForm > div {
+}
+
+.contactForm input, textarea {
+  border: 2px solid #6e7274;
+  border-radius: 5px;
+  padding: 1vw;
+  resize: none;
+  width: 40vw;
+  font-size: 1.2vw;
+}
+
+.contactForm input[type=button]{
+  font-weight: bold;
+  border-radius: 0px;
+  cursor: pointer;
+  font-size: 1vw;
+  margin-top: 1vw;
+}
+
+.contactForm input[type=button]:hover {
+  background-color: #6e7274;
+  color: white;
+  transition: .2s linear;
+}
+
+.imgContainer figure img {
+  width: 40vw;
+}

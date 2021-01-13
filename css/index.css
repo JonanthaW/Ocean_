@@ -1,0 +1,48 @@
+.indexCard {
+  display: flex;
+  justify-content: center;
+  margin-top: 2%;
+}
+
+.content {
+  margin-top: 4%;
+}
+
+.content h1 {
+  font-size: 3vw;
+  max-width: 520px;
+}
+
+.content p {
+  max-width: 440px;
+  font-size: 1.2vw;
+  margin: 1% 0 2% 0;
+}
+
+.content button {
+  border-radius: 3px;
+  padding: 1vw 3vw 1vw 3vw;
+  margin: 2%;
+  cursor: pointer;
+  font-size: 1.2vw;
+}
+
+#SpeakW {
+  background-color: rgb(100 119 182);
+  border: 2px solid rgb(100 119 182);
+  color: white;
+}
+
+#LearnM {
+  background-color: rgba(0,0,0,0);
+  color: black;
+  border: 1px solid black;
+}
+
+.index figure {
+  margin-left: 5%;
+}
+
+.index figure img {
+  width: 34vw;
+}

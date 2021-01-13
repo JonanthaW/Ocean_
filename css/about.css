@@ -1,0 +1,66 @@
+ .about {
+   margin-left: 6%;
+   margin-bottom: 4%;
+ }
+
+.faces {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  max-width: 32em;
+}
+
+.faces figure img {
+  width: 85%;
+  animation: spin 1s linear infinite alternate;
+  animation-play-state: paused;
+}
+
+.faces figure img:hover {
+  animation-play-state: running;
+}
+
+@keyframes spin {
+  0% {transform: rotate(0deg);}
+  50% {transform: rotate(20deg);}
+  75% {transform: rotate(0deg);}
+  100% {transform: rotate(-20deg); }
+}
+
+.aboutText {
+  margin-left: 5%;
+  margin-top: 3%;
+}
+
+.aboutText h3 {
+  text-transform: uppercase;
+  color: gray;
+  font-size: 1.5vw;
+}
+
+.aboutText h1 {
+  font-size: 3vw;
+  max-width: 550px;
+}
+
+.aboutText p {
+  max-width: 520px;
+  margin: 2em 2em 2em 0em;
+  font-size: 1.2vw;
+}
+
+.aboutUs {
+  display: flex;
+}
+
+#LearnA {
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+  font-size: 1.2vw;
+}
+
+#LearnA a {
+  text-decoration: none;
+  color: rgb(100 119 182);
+}

@@ -1,0 +1,14 @@
+.footer {
+  background-color: #e1e6f0;
+  display: flex;
+  justify-content: center;
+  padding: 1vw;
+}
+
+.footer figure a img {
+  width: 10vw;
+}
+
+.footer figure a {
+  display: flex;
+}

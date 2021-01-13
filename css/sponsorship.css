@@ -1,0 +1,19 @@
+.sponsorship {
+  justify-content: center;
+  display: flex;
+  margin: 4vw 0vw 5vw 0vw;
+}
+
+.sponsorList {
+  display: grid;
+  list-style: none;
+  grid-template-columns: repeat(5, auto);
+  grid-column-gap: 8vw;
+  align-items: center;
+}
+
+.sponsorList li figure {
+  display: flex;
+  justify-content: center;
+  width: 10vw;
+}
