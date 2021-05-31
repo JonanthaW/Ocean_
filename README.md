@@ -4,8 +4,13 @@
 
 ## :rocket: Sobre a página
 
-Uma simples página web utilizando **HTML, JS, CSS**.
+Uma simples página web.
 
-### Tela da aplicação
+#### :wrench: Techs utilizadas:
+* _HTML_
+* _JS_
+* _CSS_
+
+### :bulb: Tela da aplicação
 
 ![image](https://github.com/JonanthaW/Projeto-Ocean_/blob/main/img/example1.jpg)
