@@ -13,4 +13,4 @@ Uma simples página web.
 
 ### :bulb: Tela da aplicação
 
-![image](https://github.com/JonanthaW/Projeto-Ocean_/blob/main/img/example1.jpg)
+![image](https://github.com/JonanthaW/Ocean_/blob/main/img/example1.jpg)
