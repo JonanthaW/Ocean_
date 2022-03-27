@@ -14,3 +14,9 @@ Uma simples página web.
 ### :bulb: Tela da aplicação
 
 ![image](https://github.com/JonanthaW/Ocean_/blob/main/img/example1.jpg)
+
+### :computer: Baixando o conteúdo:
+
+```bash
+$ git clone https://github.com/JonanthaW/Arduino-Projects.git
+```
